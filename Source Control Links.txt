@@ -1,0 +1,14 @@
+Link #1: https://github.com/ezEngine/ezEngine.git
+Description: I found this project interesting from it being anopen source C++ game engine; allowing for customization. 
+
+Link #2: https://github.com/nousxiong/gce.git
+Description: I found this project interesting from the focus on actor modeling for online game development.
+
+Link #3: https://github.com/jdmclark/gorc.git
+Description: I found this project interesting from it being a recreationof an existing game engine to allow for cross platform gameplay.
+
+Link #4: https://github.com/JPTIZ/libgba-cpp.git
+Description: I found this project interesting from the focus of handheld game development for the GameBoy Advance.
+
+Link #5: https://github.com/linquize/NppGitIgnore.git
+Description: I found this project interesting from its use with Notepad++; which I use consatntly so this plugin could prove very useful.
